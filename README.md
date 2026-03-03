@@ -88,17 +88,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-  <!-- Add your project cards here -->
-  ReadMe Card
-</div>
-
-💡 Tip: Replace `sujalkamanna` in repo links with your actual project repository names to showcase them.
-
----
-
 ## 🌐 Connect with Me
 
 <div align="center">
@@ -137,3 +126,4 @@
 </p>
 
 <h6 align="center">Made with ❤️ and lots of ☕</h6>
+
